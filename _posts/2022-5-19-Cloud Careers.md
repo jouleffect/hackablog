@@ -5,4 +5,3 @@ place: Palermo (IT)
 categories: [Cloud,Google,DevOps,Networking]
 ---
 
-# 
