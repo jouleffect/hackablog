@@ -11,4 +11,7 @@ categories: [Cloud,Google,DevOps,Networking]
 </p>
 
 ### What is Cloudification?
-This term is a current way of meaning the migration of a monolithic application to a new system, a cloud system, composed of many microservices, each indipendent of the other, in terms of deploying, lifecyle and location. The most important aim of this kind of architecture is to make as flexible as possible the load balancing and to avoid the fall of the entire application, if only one part of it has a problem.
+This term is a current way of meaning the migration of a monolithic application to a new system, a cloud system, composed of many microservices, each indipendent of the other, in terms of deploying, lifecyle and location. The most important aim of this kind of architecture is to make as flexible as possible the load balancing and to avoid the fall of the entire application, if only one part of it has a problem. \
+
+Who manages this kind of job?
+
