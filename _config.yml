@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://jouleffect.github.io/hackablog/
-enforce_ssl: https://jouleffect.github.io/hackablog/
+#url: http://jouleffect.github.io/hackablog/
+#enforce_ssl: https://jouleffect.github.io/hackablog/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
